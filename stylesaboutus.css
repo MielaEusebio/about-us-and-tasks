@@ -1,0 +1,22 @@
+            /* Color Palette: */
+            body {
+                font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                text-align: center;
+                color:#0e1428;
+            }
+            form {
+                color: #001046;
+                border: 10px double #7b9e89;
+                background: #f0a202;
+                padding:65px;
+                width: 600px;
+                text-align: center;
+                margin: 0 auto; 
+                    /*Reference: Daneesha. (2021, June 4). HTML How to center a Form. Stack Overflow. https://stackoverflow.com/questions/67832436/html-how-to-center-a-form#:~:text=4%20Answers&text=If%20you%20want%20to%20centre,0%20auto%20with%20a%20width.&text=if%20you%20want%20to%20centre%20inline,text%2Dalign:%20centre%20works. */
+                display: inline-block;
+                    /*Reference: https://stackoverflow.com/questions/29071946/how-to-get-forms-next-to-each-other-rather-than-below-one-another* answered  Mar 16, 2015 at 8:15 by SW4 */
+            }
+
+            img {
+                border: 3px solid #632213;
+            }
